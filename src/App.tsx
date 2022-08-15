@@ -21,9 +21,9 @@ function App() {
       note: "Allegeric to staying on the same team",
     },
     {
-      name: "Kobe Bryant",
-      age: 42,
-      url: "https://cdn.nba.com/headshots/nba/latest/1040x760/977.png",
+      name: "Stephen Curry",
+      url: "https://cdn.nba.com/headshots/nba/latest/1040x760/201939.png",
+      age: 32,
     },
   ]);
 
